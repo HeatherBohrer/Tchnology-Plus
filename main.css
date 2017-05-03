@@ -18,10 +18,12 @@ main {
 aside {
     float: left;
     width: 150px;
+    margin-top: 25px;
 }
 section {
     float: left;
     width: 500px;
+    margin-left: 20%;
 }
 footer {
     clear: both;
