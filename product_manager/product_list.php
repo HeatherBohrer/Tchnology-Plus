@@ -1,4 +1,5 @@
 <?php include '../view/header.php'; ?>
+<div class="container">
 <main>
     <h1>Product List</h1>
 
@@ -41,4 +42,5 @@
         </p>        
     </section>
 </main>
+</div>
 <?php include '../view/footer.php'; ?>

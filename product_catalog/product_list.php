@@ -1,4 +1,5 @@
 <?php include '../view/header.php'; ?>
+<div class="container">
 <main>
     <aside>
         <h1>Categories</h1>
@@ -30,4 +31,5 @@
         </ul>
     </section>
 </main>
+</div>
 <?php include '../view/footer.php'; ?>

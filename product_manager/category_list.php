@@ -1,6 +1,6 @@
 <?php include '../view/header.php'; ?>
+<div class="container">
 <main>
-
     <h1>Category List</h1>
     <table>
         <tr>
@@ -33,6 +33,6 @@
     </form>
 
     <p><a href="index.php?action=list_products">List Products</a></p>
-
 </main>
+</div>
 <?php include '../view/footer.php'; ?>

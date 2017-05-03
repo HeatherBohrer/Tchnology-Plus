@@ -1,4 +1,5 @@
 <?php include '../view/header.php'; ?>
+<div class="container">
 <main>
     <h1>Add Product</h1>
     <form action="index.php" method="post" id="add_product_form">
@@ -33,6 +34,6 @@
     <p class="last_paragraph">
         <a href="index.php?action=list_products">View Product List</a>
     </p>
-
 </main>
+</div>
 <?php include '../view/footer.php'; ?>
